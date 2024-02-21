@@ -24,7 +24,7 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Ebtihaj Abdullah",
-  title: "Engineer",
+  title: "Engineer.",
   email: "ebtihajabdullah@acm.org",
   gitHub: "https://github.com/Ibtihaj-Abdullah",
   instagram: "microsoft",
